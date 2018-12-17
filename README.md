@@ -31,10 +31,50 @@
 
 # Задания для самостоятельной работы
 
-Задание 8.2. [Проектирование электронного курса в выбранной области знаний](https://yadi.sk/i/21Y8k2pGy_HzkQ)
+[Задание 1](https://yadi.sk/i/4P5RT6HJ-6MNOg)
 
-Задание 9.1. [Критический анализ информационной среды университета](https://yadi.sk/i/PWYOpzewckkKaw)
+[Задание 1.2](https://yadi.sk/i/odX1SMgdcxkS2A)
 
-Задание 11.2  [Обзор возможностей решения образовательных задач с применением технологий виртуальной реальности](https://yadi.sk/i/hDac9VPVtz1EXw)
+[Задание 2](https://yadi.sk/i/pXyFsjqodjIw4g)
 
-Задание 7. [Анализ информационных систем в информационной среды вуза и школы. Составление аннотированного каталога.](https://yadi.sk/i/xhSGF-ZWXV7ZMQ)
+[Задание 2.2](https://yadi.sk/i/1ZRkB_NxLz8jYQ)
+
+[Задание 3](https://yadi.sk/i/pwaF6TrPR7bkpg)
+
+[Задание 4](https://yadi.sk/i/0v6eYes8Q8nhjA)
+
+[Задание 4.2](https://yadi.sk/i/jJRsigxM4rw34g)
+
+[Задание 5](https://yadi.sk/i/AN5MVK6SOLpUrQ)
+
+[Задание 5.2](https://yadi.sk/i/ZTEwLO7k5qJv_w)
+
+[Задание 6](https://yadi.sk/i/V7xBvb7lxEmIRA)
+
+[Задание 7](https://yadi.sk/i/xhSGF-ZWXV7ZMQ)
+
+[Задание 8.1](https://yadi.sk/i/HC5Em2Cb8UQeUw)
+
+[Задание 8.2](https://yadi.sk/i/21Y8k2pGy_HzkQ)
+
+[Задание 9.1.](https://yadi.sk/i/PWYOpzewckkKaw)
+
+[Задание 9.2](https://yadi.sk/i/55Zr1J97KeYPrQ)
+
+[Задание 11.1](https://yadi.sk/i/jODDDewxbsdnHQ)
+
+[Задание 11.2](https://yadi.sk/i/hDac9VPVtz1EXw)
+
+[Задание В 4.1](https://yadi.sk/i/rL3_TdyFlwJP7Q)
+
+[Задание В 5.2](https://yadi.sk/i/JzOEpPmwjAAnYQ)
+
+[Задание В 6.1](https://yadi.sk/i/dHaHEApHLMaGgQ)
+
+[Задание B 8.1](https://yadi.sk/i/jkn7bo4zeMsIXw)
+
+[Задание B 9.2](https://yadi.sk/i/W1GAYMvnT5JZbQ)
+
+[Задание В 10.2 ](https://yadi.sk/i/FqReqda_4JXxPw)
+
+
